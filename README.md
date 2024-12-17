@@ -1,3 +1,17 @@
+Hi, 
+I hope you are doing well. 
+
+For whomever it is reading this, on this repository you will find a personal project.
+This is a react application which displays all mission launches from SpaceX through 2006 - 2020 using their REST API endpoint. 
+It displays specifics from each mission and implements a search filter by year. 
+I hope you enjoy trying it. 
+
+Link of Vercel: https://101354581-lab-test2-comp3133.vercel.app/
+
+Thank you, 
+Diego Plata.
+
+
 # 101354581-LabTest2-Comp3133
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
